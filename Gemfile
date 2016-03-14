@@ -31,6 +31,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'font-awesome-rails'
 gem 'simple_form'
 gem 'devise'
+gem 'auto_html','~>1.6.4' 
 
 # Use Unicorn as the app server
 # gem 'unicorn'
